@@ -1,2 +1,2 @@
 # my latest resume
-updated by 12/31/2021
+updated by 01/05/2022
