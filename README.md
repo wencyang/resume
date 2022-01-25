@@ -1,4 +1,8 @@
 # my latest resume
+updated by 01/25/2022
+
+--update citation
+
 updated by 01/05/2022
 
 --add website
