@@ -2,7 +2,7 @@
 
 updated by 02/09/2022
 
---rephrase
+--rephrase, fix typos and change font size
 
 updated by 02/06/2022
 
