@@ -1,4 +1,9 @@
 # my latest resume
+
+updated by 02/09/2022
+
+--rephrase
+
 updated by 02/06/2022
 
 --small change
