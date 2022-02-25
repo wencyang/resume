@@ -1,5 +1,8 @@
 # my latest resume
 
+02/24/2022
+--minor change
+
 02/09/2022
 
 --rephrase, fix typos and change font size
