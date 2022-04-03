@@ -1,6 +1,10 @@
 # my latest resume
 03/25/2022
 
+--update experience
+
+03/25/2022
+
 --update knowledge
 
 03/11/2022
